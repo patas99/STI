@@ -5,7 +5,3 @@ public class HelloWorld {
         System.out.println("Hello, World");
     }
 }
-asfasdf
-asdfasdfwqeqqweweq sed rYCF4SDETXRWSDWEaycvfčtxr sder
-qq
-asdasd
